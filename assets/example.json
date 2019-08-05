@@ -1,0 +1,309 @@
+{
+  "event": "media.pause",
+  "user": true,
+  "owner": true,
+  "Account": {
+    "id": 1,
+    "thumb": "https://plex.tv/users/aa38ffee77b33a31/avatar?c=1563806285",
+    "title": "Boomer70770"
+  },
+  "Server": {
+    "title": "freenas",
+    "uuid": "797f3e044a6feaf67f4851a1c23485ab2886ed32"
+  },
+  "Player": {
+    "local": true,
+    "publicAddress": "72.28.56.30",
+    "title": "AFTMM",
+    "uuid": "856d0f50738eece4-com-plexapp-android"
+  },
+  "Metadata": {
+    "librarySectionType": "movie",
+    "ratingKey": "32690",
+    "key": "/library/metadata/32690",
+    "guid": "com.plexapp.agents.imdb://tt5140878?lang=en",
+    "librarySectionTitle": "Movies",
+    "librarySectionID": 1,
+    "librarySectionKey": "/library/sections/1",
+    "studio": "New Line Cinema",
+    "type": "movie",
+    "title": "Annabelle: Creation",
+    "contentRating": "R",
+    "summary": "Several years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the dollmaker's possessed creation, Annabelle.",
+    "rating": 6.9,
+    "audienceRating": 6.8,
+    "viewOffset": 3565086,
+    "viewCount": 3,
+    "lastViewedAt": 1564009890,
+    "year": 2017,
+    "tagline": "You don't know the real story",
+    "thumb": "/library/metadata/32690/thumb/1522036083",
+    "art": "/library/metadata/32690/art/1522036083",
+    "duration": 6540000,
+    "originallyAvailableAt": "2017-08-03",
+    "addedAt": 1522036057,
+    "updatedAt": 1522036083,
+    "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+    "primaryExtraKey": "/library/metadata/32691",
+    "ratingImage": "rottentomatoes://image.rating.ripe",
+    "Genre": [
+      {
+        "id": 120,
+        "filter": "genre=120",
+        "tag": "Horror",
+        "count": 193
+      },
+      {
+        "id": 209,
+        "filter": "genre=209",
+        "tag": "Mystery",
+        "count": 109
+      },
+      {
+        "id": 44,
+        "filter": "genre=44",
+        "tag": "Thriller",
+        "count": 243
+      }
+    ],
+    "Director": [
+      {
+        "id": 33059,
+        "filter": "director=33059",
+        "tag": "David F. Sandberg",
+        "count": 2
+      }
+    ],
+    "Writer": [
+      {
+        "id": 2640,
+        "filter": "writer=2640",
+        "tag": "Gary Dauberman",
+        "count": 4
+      }
+    ],
+    "Producer": [
+      {
+        "id": 47,
+        "filter": "producer=47",
+        "tag": "Peter Safran",
+        "count": 8
+      },
+      {
+        "id": 2664,
+        "filter": "producer=2664",
+        "tag": "James Wan",
+        "count": 6
+      }
+    ],
+    "Country": [
+      {
+        "id": 950,
+        "filter": "country=950",
+        "tag": "USA",
+        "count": 182
+      }
+    ],
+    "Role": [
+      {
+        "id": 33060,
+        "filter": "actor=33060",
+        "tag": "Stephanie Sigman",
+        "role": "Sister Charlotte",
+        "thumb": "http://image.tmdb.org/t/p/original/wjIdaFHEUPzUagg7Z5OGFrKu2fl.jpg"
+      },
+      {
+        "id": 33061,
+        "filter": "actor=33061",
+        "tag": "Talitha Bateman",
+        "role": "Janice",
+        "thumb": "http://image.tmdb.org/t/p/original/4zGOVkPuA9WAcMGSIHTNVpw0GVj.jpg"
+      },
+      {
+        "id": 2001,
+        "filter": "actor=2001",
+        "tag": "Anthony LaPaglia",
+        "count": 2,
+        "role": "Samuel Mullins",
+        "thumb": "http://image.tmdb.org/t/p/original/22sOEc37TsxxcnIl1XmucuW3IDl.jpg"
+      },
+      {
+        "id": 15952,
+        "filter": "actor=15952",
+        "tag": "Miranda Otto",
+        "count": 3,
+        "role": "Esther Mullins",
+        "thumb": "http://image.tmdb.org/t/p/original/pp6WCSXw3EHOSNSG5jUDspuiFgf.jpg"
+      },
+      {
+        "id": 33062,
+        "filter": "actor=33062",
+        "tag": "Lulu Wilson",
+        "count": 2,
+        "role": "Linda",
+        "thumb": "http://image.tmdb.org/t/p/original/uAaKqtzE0Cq2LI9o7gJnf9r9PZI.jpg"
+      },
+      {
+        "id": 33063,
+        "filter": "actor=33063",
+        "tag": "Philippa Coulthard",
+        "role": "Nancy",
+        "thumb": "http://image.tmdb.org/t/p/original/4VNXGvqcdoHLVADvCjjuZMh9N4b.jpg"
+      },
+      {
+        "id": 33064,
+        "filter": "actor=33064",
+        "tag": "Grace Fulton",
+        "count": 2,
+        "role": "Carol",
+        "thumb": "http://image.tmdb.org/t/p/original/koezvzP5M36j1XNaHkboeBnaN63.jpg"
+      },
+      {
+        "id": 33065,
+        "filter": "actor=33065",
+        "tag": "Lou Lou Safran",
+        "count": 2,
+        "role": "Tierney",
+        "thumb": "http://image.tmdb.org/t/p/original/9iRNXBVWoASeZbrS0aJ7VQjyz6b.jpg"
+      },
+      {
+        "id": 33066,
+        "filter": "actor=33066",
+        "tag": "Tayler Buck",
+        "role": "Kate"
+      },
+      {
+        "id": 33067,
+        "filter": "actor=33067",
+        "tag": "Samara Lee",
+        "role": "Annabelle \"Bee\" Mullins",
+        "thumb": "http://image.tmdb.org/t/p/original/67l7wx45zOiMTGs0YQwliWNi5nY.jpg"
+      },
+      {
+        "id": 33068,
+        "filter": "actor=33068",
+        "tag": "Mark Bramhall",
+        "count": 2,
+        "role": "Father Massey",
+        "thumb": "http://image.tmdb.org/t/p/original/5s5YO5N5COIO5ctOyTNIrlcwmvE.jpg"
+      },
+      {
+        "id": 33069,
+        "filter": "actor=33069",
+        "tag": "Adam Bartley",
+        "role": "Officer Fuller",
+        "thumb": "http://image.tmdb.org/t/p/original/wg7Uy059PZtv7bDd3xU5xhyFHmC.jpg"
+      },
+      {
+        "id": 15508,
+        "filter": "actor=15508",
+        "tag": "Alicia Vela-Bailey",
+        "count": 3,
+        "role": "Evil Mrs Mullins",
+        "thumb": "http://image.tmdb.org/t/p/original/kVuyn6sS7ZSBlXVjjxq0LSE3k4I.jpg"
+      },
+      {
+        "id": 33070,
+        "filter": "actor=33070",
+        "tag": "Lotta Losten",
+        "count": 2,
+        "role": "Adoption agent",
+        "thumb": "http://image.tmdb.org/t/p/original/k6C2tAU9EvFpBlLx9O2fKEVRFwx.jpg"
+      },
+      {
+        "id": 2663,
+        "filter": "actor=2663",
+        "tag": "Joseph Bishara",
+        "count": 6,
+        "role": "Annabelle Demon",
+        "thumb": "http://image.tmdb.org/t/p/original/jkFmkZcd16cEX2yGFNNAsNJyN5U.jpg"
+      },
+      {
+        "id": 2647,
+        "filter": "actor=2647",
+        "tag": "Brian Howe",
+        "count": 3,
+        "role": "Pete Higgins",
+        "thumb": "http://image.tmdb.org/t/p/original/hVGdlfiSvLNGx9KnoVkL3VR5hMG.jpg"
+      },
+      {
+        "id": 2646,
+        "filter": "actor=2646",
+        "tag": "Kerry O'Malley",
+        "count": 4,
+        "role": "Sharon Higgins",
+        "thumb": "http://image.tmdb.org/t/p/original/8a1wpq7lC8S3XiokACHkJOqJv5v.jpg"
+      },
+      {
+        "id": 2654,
+        "filter": "actor=2654",
+        "tag": "Tree O'Toole",
+        "count": 2,
+        "role": "Adult Janice / Annabelle Higgins",
+        "thumb": "http://image.tmdb.org/t/p/original/aTFZU5ylTvgfPvcAbOx8WSq2wxX.jpg"
+      },
+      {
+        "id": 2641,
+        "filter": "actor=2641",
+        "tag": "Annabelle Wallis",
+        "count": 2,
+        "role": "Mia Form",
+        "thumb": "http://image.tmdb.org/t/p/original/cJftGSBJndCcHUFsNUbFme5LnYd.jpg"
+      },
+      {
+        "id": 2642,
+        "filter": "actor=2642",
+        "tag": "Ward Horton",
+        "count": 3,
+        "role": "John Form",
+        "thumb": "http://image.tmdb.org/t/p/original/qN28HktqfOCIaoriginal/qN28HktqfOCIaLVRK8W6bofdbvs.jpg"
+      },
+      {
+        "id": 33071,
+        "filter": "actor=33071",
+        "tag": "Brad Greenquist",
+        "count": 2,
+        "role": "Victor Palmeri",
+        "thumb": "http://image.tmdb.org/t/p/original/8rclBoyMrNwWRnUs5iPLTengKAk.jpg"
+      },
+      {
+        "id": 33073,
+        "filter": "actor=33073",
+        "tag": "Karalee Austin",
+        "role": "Church Member"
+      },
+      {
+        "id": 33074,
+        "filter": "actor=33074",
+        "tag": "Tyler A. Johnson",
+        "role": "Priest Holding Annabelle"
+      }
+    ],
+    "Similar": [
+      {
+        "id": 237,
+        "filter": "similar=237",
+        "tag": "The Conjuring 2",
+        "count": 10
+      },
+      {
+        "id": 28496,
+        "filter": "similar=28496",
+        "tag": "Ouija: Origin of Evil",
+        "count": 5
+      },
+      {
+        "id": 123,
+        "filter": "similar=123",
+        "tag": "Happy Death Day",
+        "count": 7
+      },
+      {
+        "id": 138,
+        "filter": "similar=138",
+        "tag": "Amityville: The Awakening",
+        "count": 4
+      }
+    ]
+  }
+}
