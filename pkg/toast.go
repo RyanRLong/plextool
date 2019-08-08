@@ -3,6 +3,7 @@ package plextool
 import (
 	"fmt"
 	"path/filepath"
+	"runtime"
 
 	"gopkg.in/toast.v1"
 )
@@ -11,6 +12,9 @@ import (
 // and displays a toast message on Windows 10
 func DisplayToast(film Film, data IncomingData) {
 
+	if runtime.GOOS != "windows" {
+		return // TODO Not sure if a silent failure is the way to go here
+	}
 	imagePath, _ := filepath.Abs("./img/plex.png") // TODO Verify image exists or remove from Notification
 	notification := toast.Notification{
 		AppID:    "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WindowsPowerShell\\v1.0\\powershell.exe",
