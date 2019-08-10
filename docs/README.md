@@ -1,4 +1,6 @@
 # plextool
+[![CircleCI](https://circleci.com/gh/SaltyCatFish/plextool/tree/master.svg?style=svg)](https://circleci.com/gh/SaltyCatFish/plextool/tree/master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/saltycatfish/plextool)](https://goreportcard.com/report/github.com/saltycatfish/plextool)
 
 plextool is a package containing a sender and receiver for interacting with a rabbitMQ database. It listens for webhooks
 from a Plex Media server with the sender.
