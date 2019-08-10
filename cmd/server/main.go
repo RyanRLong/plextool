@@ -74,7 +74,6 @@ func sendMessage(message []byte) {
 		false,      // no-wait
 		nil,        // arguments
 	)
-
 	if err != nil {
 		log.Panicln(err)
 	}
@@ -87,6 +86,9 @@ func sendMessage(message []byte) {
 			ContentType: "application/json",
 			Body:        []byte(message),
 		})
+	if err != nil {
+		log.Panicln(err)
+	}
 }
 
 // requestHandler handles routing requests
