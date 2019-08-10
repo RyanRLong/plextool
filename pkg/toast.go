@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"gopkg.in/toast.v1"
+	"github.com/saltycatfish/toast"
 )
 
 // DisplayToast takes a Film and IncomingData structs
